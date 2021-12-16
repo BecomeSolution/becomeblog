@@ -22,7 +22,7 @@ Nos atouts :<br/>
 - Une documentation claire et précise ✅<br/>
 - Des conseils unique trouvable nulle part ailleurs ! ✅<br/><br/>
 
-Ce site est le répertoire de la communauté Séducquais</a> <br/>
+Ce site est le répertoire de la communauté Séducquais.</a> <br/>
 Pour plus d'information rejoignez notre discord, <a target="_blank" href="https://discord.gg/yWCUap8wej"> en cliquant ici !</a>
           </p>
         </div>
