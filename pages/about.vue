@@ -10,19 +10,19 @@
         <div class="content">
           <h3>Information</h3>
           <p>
-            <strong>
+           
 <p> 
 
-Rejoignez la première communauté axé Séduction, Business et développement personnel !<br/>
+<strong>Rejoignez la première communauté axé Séduction, Business et développement personnel !<br/>
 From1/10To10/10 anciennement Séducquais c'est une communauté unique.<br/>
-<strong> Vous ne trouverez aucun équivalent ailleurs !</strong>
+Vous ne trouverez aucun équivalent ailleurs !</strong><br/>
 <br/>
 Nos atouts :<br/>
 - Des membres compétents et actifs ✅<br/>
 - Une documentation claire et précise ✅<br/>
-- Des conseils unique trouvable nulle part ailleurs ! ✅<br/>
+- Des conseils unique trouvable nulle part ailleurs ! ✅<br/><br/>
 
-Ce site est le répertoire de la communauté Séducquais</a> <br/><br/>
+Ce site est le répertoire de la communauté Séducquais</a> <br/>
 Pour plus d'information rejoignez notre discord, <a target="_blank" href="https://discord.gg/yWCUap8wej"> en cliquant ici !s</a>
           </p>
         </div>
