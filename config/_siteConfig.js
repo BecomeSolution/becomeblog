@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Séducquais',
-  tagline: echo '<a href="https://discord.gg/JedDMheh">NOUS REJOINDRE</a>';
+  tagline: '',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo.svg', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
