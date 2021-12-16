@@ -14,7 +14,7 @@
 <p> 
 
 <strong>Rejoignez la première communauté axé Séduction, Business et développement personnel !<br/>
-From1/10To10/10 anciennement Séducquais c'est une communauté unique.<br/>
+From1/10To10/10 également connu sous le nom Séducquais est une communauté pionnière dans son domaine sur la plateforme discord.<br/>
 Vous ne trouverez aucun équivalent ailleurs !</strong><br/>
 <br/>
 Nos atouts :<br/>
