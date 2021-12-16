@@ -1,7 +1,7 @@
 <template>
   <footer class="site-footer">
     {{ $siteConfig.siteName }} &copy; {{ new Date().getFullYear() }}
-    <br /> <a target="_blank" href="https://discord.gg/yWCUap8wej"> Rejoignez-nous</a>
+    <br /> <a target="_blank" href="https://discord.gg/yWCUap8wej"> REJOINEZ-NOUS</a>
     
   </footer>
 </template>
