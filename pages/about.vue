@@ -11,14 +11,10 @@
           <h3>Information</h3>
           <p>
             <strong>
-Projet jumelé avec la communauté <a target="_blank" href="https://discord.gg/yWCUap8wej"> Séducquais</a> <br/><br/>
-
-<a target="_blank" href="https://discord.gg/yWCUap8wej"><img src="https://zupimages.net/up/21/04/j7sq.png" alt="" /></a>
+<p> Répertoire utile
+Répertoire utile de la communauté Séducquais</a>
+Pour plus d'information rejoignez notre discord, <a target="_blank" href="https://discord.gg/yWCUap8wej"> en cliquant ici !s</a>
           </p>
-          <p>
-            Site administrer par <a target="_blank" href='Solution#9425' title='Solution'>@Solution</a>
-          </p>
-
         </div>
 </template>
       <template v-slot:sidebar>
