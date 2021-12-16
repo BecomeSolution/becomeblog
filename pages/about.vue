@@ -2,7 +2,7 @@
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
       title="À propos - Become."
-      subtitle="`\"Sic itur ad astra\""
+      subtitle="Sic itur ad astra - Virgile"
       image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
@@ -20,7 +20,7 @@ Projet jumelé avec la communauté <a target="_blank" href="https://discord.gg/y
           </p>
 
         </div>
-
+</template>
       <template v-slot:sidebar>
         <h3 class="subtitle is-4">
           Latest Posts
