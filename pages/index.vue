@@ -6,7 +6,7 @@
         class="button is-primary"
         @click="$eventBus.$emit('modal-triggered', 'newsletter-modal')"
       >
-        Notification nouveaux articles
+        Je veux être averti dès la sortie d'un nouvel article !
       </button>
     </site-hero>
     <main-section theme="one-column">
