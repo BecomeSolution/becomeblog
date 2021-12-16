@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Séducquais',
-  tagline: 'Big base de données',
+  tagline: echo '<a href="https://discord.gg/JedDMheh">NOUS REJOINDRE</a>';
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo.svg', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -27,7 +27,7 @@ export default {
       link: '/categories'
     },
     {
-      name: 'About',
+      name: 'À Propos',
       link: '/about'
     },
     {
