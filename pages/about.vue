@@ -1,8 +1,8 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="À propos - Become."
-      subtitle="Sic itur ad astra - Virgile"
+      title="À Propos"
+      subtitle="Become."
       image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
@@ -11,8 +11,13 @@
           <h3>Information</h3>
           <p>
             <strong>
-<p> Répertoire utile
-Répertoire utile de la communauté Séducquais</a>
+<p> 
+
+Rejoignez la première communauté axé Séduction, Business et développement personnel !
+From1/10To10/10 anciennement Séducquais c'est une communauté unique.
+<strong> Vous ne trouverez aucun équivalent ailleurs !</strong>
+<br/>
+Ce site est le répertoire de la communauté Séducquais</a> <br/>
 Pour plus d'information rejoignez notre discord, <a target="_blank" href="https://discord.gg/yWCUap8wej"> en cliquant ici !s</a>
           </p>
         </div>
