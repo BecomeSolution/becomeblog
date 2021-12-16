@@ -55,7 +55,7 @@ export default {
   // Newsletter Subscribe
   newsletter: {
     on: true,
-    heading: 'Être averti !',
+    heading: 'Je serais informer de chaque nouvel article !',
     btnText: 'S\'inscire',
     // Can be the form action on a mail chimp form, a hubspot form,
     // or any other url you want to post the form data to
